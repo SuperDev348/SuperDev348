@@ -6,11 +6,11 @@ Hi, I'm a Data Engineer with over a decade of experience designing and building 
 
 ## 💼 What I Do
 
-- ⚙️ Build real-time, high-throughput data pipelines with **Apache Kafka** and **Apache Spark**
-- 🏦 Architect **data warehouses** for trading systems and financial analytics
-- 🔐 Implement **secure & compliant** data infrastructure (AML, MiFID II, Basel III)
-- ☁️ Deploy cloud-native solutions on **AWS** and **GCP**
-- 📈 Optimize pipelines for **risk analytics**, **market data**, and **regulatory reporting**
+- Build real-time, high-throughput data pipelines with **Apache Kafka** and **Apache Spark**
+- Architect **data warehouses** for trading systems and financial analytics
+- Implement **secure & compliant** data infrastructure (AML, MiFID II, Basel III)
+- Deploy cloud-native solutions on **AWS** and **GCP**
+- Optimize pipelines for **risk analytics**, **market data**, and **regulatory reporting**
 
 ---
 
@@ -38,19 +38,5 @@ Hi, I'm a Data Engineer with over a decade of experience designing and building 
 - Financial regulation & audit trails
 
 ---
-
-## 📂 Featured Repositories
-
-- **[Real-Time Trading Pipeline](https://github.com/yourusername/repo)**  
-  Kafka + Spark Streaming pipeline for high-frequency trading data
-
-- **[ETL for Regulatory Reporting](https://github.com/yourusername/repo)**  
-  Scalable Airflow-based ETL framework with compliance validations
-
-- **[Data Warehouse for Financial Analytics](https://github.com/yourusername/repo)**  
-  Snowflake + dbt project modeling key KPIs for financial services
-
----
-
 > 💡 _“Data is the lifeblood of finance. My mission is to build the pipelines that keep it flowing — securely, reliably, and in real-time.”_
 
